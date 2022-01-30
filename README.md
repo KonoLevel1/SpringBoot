@@ -18,3 +18,14 @@ https://start.spring.io/
 | Package name | konolevel1.sample |  |
 | Packaging |  Jar | ビルド後のファイル形式 |
 | Java | 11 | Javaのバージョン指定 |
+## Start
+以下のコマンドをコマンドラインに入力しビルドし実行する。
+
+Windows
+```
+mvnw spring-boot:run
+```
+MacOS / Linux
+```
+./mvnw spring-boot:run
+```
